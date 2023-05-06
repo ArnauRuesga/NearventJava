@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "485251195662",
+    "firebase_url": "https://nearventjavafb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nearventjavafb",
+    "storage_bucket": "nearventjavafb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485251195662:android:823c3c7afd69f9a71dad5f",
+        "android_client_info": {
+          "package_name": "com.example.nearventjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485251195662-gv6280jo81fmi3m4odtv2v7umseucjht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8CtxyG_YGa1tM2Ww6RQ9LctjNY_gNOS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485251195662-gv6280jo81fmi3m4odtv2v7umseucjht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485251195662:android:cc9c80c2f696b6a51dad5f",
+        "android_client_info": {
+          "package_name": "com.grzeluu.lookupplant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485251195662-gv6280jo81fmi3m4odtv2v7umseucjht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8CtxyG_YGa1tM2Ww6RQ9LctjNY_gNOS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485251195662-gv6280jo81fmi3m4odtv2v7umseucjht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
