@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:485251195662:android:823c3c7afd69f9a71dad5f",
+        "mobilesdk_app_id": "1:485251195662:android:cc9c80c2f696b6a51dad5f",
         "android_client_info": {
           "package_name": "com.example.nearventjava"
         }
@@ -37,9 +37,9 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:485251195662:android:cc9c80c2f696b6a51dad5f",
+        "mobilesdk_app_id": "1:485251195662:android:81798d026a0daeb91dad5f",
         "android_client_info": {
-          "package_name": "com.grzeluu.lookupplant"
+          "package_name": "con.example.nearventjava"
         }
       },
       "oauth_client": [

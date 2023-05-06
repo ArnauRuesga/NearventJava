@@ -7,16 +7,16 @@
 
     <fragment
         android:id="@+id/nav_my_plants"
-        android:name="com.example.neareventjava.view.MyPlantsFragment"
+        android:name="com.example.nearventjava.view.MyPlantsFragment"
         tools:layout="@layout/fragment_my_plants" />
 
     <fragment
         android:id="@+id/nav_discover"
-        android:name="com.example.neareventjava.view.DiscoverFragment"
+        android:name="com.example.nearventjava.view.DiscoverFragment"
         tools:layout="@layout/fragment_discover" />
 
     <fragment
         android:id="@+id/nav_suggest_new_plant"
-        android:name="com.example.neareventjava.ui_temporary.suggest.SuggestFragment"
+        android:name="com.example.nearventjava.ui_temporary.suggest.SuggestFragment"
         tools:layout="@layout/fragment_suggest" />
 </navigation>
