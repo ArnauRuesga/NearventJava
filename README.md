@@ -1,8 +1,5 @@
-![Main_Screen](./images/application.jpg)
-# Plant-Care-App
-An android application for controlling and reminding about plants needs to the user.
-Also, the application makes it possible to search through plants in the database or search for information and advice about them.
-To remind users from outside the app about their plants, notifications with calculated time are implemented to notify at the right time. 
+
+# NearVents
 The application is implemented with FirebaseAuth to manage users accounts and Firebase Realtime Database to store data about plants also Firebase Storage to keep all plants photos.
 The implementation of the MVP architectural pattern helps to maintain clean code.
 
